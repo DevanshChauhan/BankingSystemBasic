@@ -1,3 +1,3 @@
 # BankingSystemBasic
-A basic Banking System
-## 1.That performs basic operations 
+
+## A basic Banking System performs basic operations and Transactions
